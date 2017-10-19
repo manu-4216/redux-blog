@@ -1,3 +1,7 @@
-Modern React with Redux - project 2 - weather app
+**Modern React with Redux - project 3 - Blog**
 
-https://www.udemy.com/react-redux/
+MOOC: https://www.udemy.com/react-redux/
+
+It uses http://reduxblog.herokuapp.com/ as a CRUD API service
+
+*Key words: redux, react router, redux form*
