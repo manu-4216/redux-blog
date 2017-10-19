@@ -1,4 +1,4 @@
-**Modern React with Redux - project 3 - Blog**
+**Modern React with Redux** - project 3 - Blog
 
 MOOC: https://www.udemy.com/react-redux/
 
