@@ -5,8 +5,8 @@ export default function(state = {}, action) {
         case FETCH_POSTS:
             console.log(action.payload.data);
             return action.payload.data.reduce((acc, curr) => {
-                { id, ...rest } = curr;
-            	acc[id] = rest;
+                let { id, ...rest } = curr;
+                acc[id] = rest;
             }, {});
             break;
         default:
